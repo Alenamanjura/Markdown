@@ -21,9 +21,8 @@ ls
 ```
 Delete file in Windows:
 ```
-del <filename>
+del <file_name>
 ```
 in Linux or MacOs:
-```
-sh
+```sl
 ```
