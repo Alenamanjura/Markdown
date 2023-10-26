@@ -15,7 +15,7 @@ Add information
 
 Messege about changes
  ```sh
- git commit -m"Message"
+ git commit -m "Message"
  ```
 
 Command to display the current directory Команда отображения текущей директории.
@@ -70,3 +70,15 @@ Current state of the file
 ```sh
  git status
  ```
+Creating a new branch
+```sh
+git brench <name new brench>
+```
+Deleting a branch
+```sh
+git brench -d <name new brench>
+```
+Output tree comits
+```sh
+git log --oneline --graph
+```
