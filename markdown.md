@@ -43,7 +43,7 @@ sl
 
 Displaying all branches 
 ```sh
-git brench
+git brench <name new brench>
 ```
 Moving through branches Перемещение по веткам.
 ```sh
