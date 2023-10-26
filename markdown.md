@@ -27,3 +27,7 @@ in Linux or MacOs:
 ```
 sh
 ```
+Displaying all branches 
+```sh
+git brench
+```
