@@ -82,3 +82,7 @@ Output tree comits
 ```sh
 git log --oneline --graph
 ```
+Removing the command line
+```sh
+clear
+```
