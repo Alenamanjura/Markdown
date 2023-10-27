@@ -82,3 +82,7 @@ Output tree comits
 ```sh
 git log --oneline --graph
 ```
+Deleting only untraceable files
+```sh 
+clear
+```
