@@ -86,3 +86,7 @@ Deleting only untraceable files
 ```sh 
 clear
 ```
+Merge commit
+```sh
+merge
+```
