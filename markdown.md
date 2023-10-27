@@ -1,6 +1,6 @@
 # Command Line Hints Подсказки по командной строке 
 
-Directory change command Команда смены директории 
+Directory change command \\Команда смены директории 
 ```sh
 cd c:\folder_name
 ```
@@ -18,12 +18,12 @@ Messege about changes
  git commit -m "Message"
  ```
 
-Command to display the current directory Команда отображения текущей директории.
+Command to display the current directory \\Команда отображения текущей директории.
 ```sh
 pwd
 ```
 
-Listing the current directory Листинг текущей директории
+Listing the current directory \\Листинг текущей директории
 Windows:
 ``` sh
 dir
@@ -40,10 +40,9 @@ in Linux or MacOs:
 ```sh
 sl
 ```
-
 Displaying all branches 
 ```sh
-git brench <name new brench>
+git brench 
 ```
 Moving through branches Перемещение по веткам.
 ```sh
@@ -54,7 +53,7 @@ Output of information about files
  ```sh
  git log
 ```
- Compressed information about files 
+ Compressed output of information about files 
  ```sh
  git log --oneline
  ```
@@ -66,7 +65,7 @@ Deleting changes and information
 ```sh
  git restore
  ```
-Current state of the file 
+Current file statys 
 ```sh
  git status
  ```
@@ -78,21 +77,19 @@ Deleting a branch
 ```sh
 git brench -d <name new brench>
 ```
-Output tree comits
+Output all comits
 ```sh
 git log --oneline --graph
 ```
-<<<<<<< HEAD
-Deleting only untraceable files
+Deleting only untraceable files \\ Удаление только не отслеживаемых файлов.
 ```sh 
 clear
 ```
-Merge commit
+Merge commit \\ Фиксация слияния
 ```sh
 merge
-=======
+```
 Configura Configyration values
 ```sh
 git config
->>>>>>> txt_config
 ```
