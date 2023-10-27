@@ -34,9 +34,7 @@
 1. Первый пункт; 
 2. Второй пункт;
 
-## Work with image - Работа с изображениями 
-
- # How to add images to markdown
+ ## How to add images to markdown
 
  this Gray and I
 
@@ -48,6 +46,3 @@
 
 ## Work with tables - Работа с таблицами
 
-## Quotes - Цитаты
-
-## Conclusion - Заключение или вывод
