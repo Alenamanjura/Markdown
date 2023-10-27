@@ -71,11 +71,11 @@ Current file statys
  ```
 Creating a new branch
 ```sh
-git brench <name new brench>
+git branch <name new branch>
 ```
 Deleting a branch
 ```sh
-git brench -d <name new brench>
+git branch -d <name new branch>
 ```
 Output all comits
 ```sh
@@ -92,4 +92,8 @@ git config
 Removing the garbage from the working directory \\ Удаление муссора из рабочего каталога.
 ```sh
 clear
+```
+Merge commit 
+```sh
+git merge <name branch>
 ```
