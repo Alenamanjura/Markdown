@@ -97,3 +97,7 @@ Merge commit
 ```sh
 git merge <name branch>
 ```
+Viewing the history of commits wish changes
+```
+git log -p
+```
