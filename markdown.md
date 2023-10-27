@@ -72,11 +72,11 @@ Current state of the file
  ```
 Creating a new branch
 ```sh
-git brench <name new brench>
+git branch <name new branch>
 ```
 Deleting a branch
 ```sh
-git brench -d <name new brench>
+git branch -d <name new branch>
 ```
 Output tree comits
 ```sh
@@ -85,4 +85,8 @@ git log --oneline --graph
 Configura Configyration values
 ```sh
 git config
+```
+Merge commit 
+```sh
+git merge <name branch>
 ```
