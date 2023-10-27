@@ -82,6 +82,7 @@ Output tree comits
 ```sh
 git log --oneline --graph
 ```
+<<<<<<< HEAD
 Deleting only untraceable files
 ```sh 
 clear
@@ -89,4 +90,9 @@ clear
 Merge commit
 ```sh
 merge
+=======
+Configura Configyration values
+```sh
+git config
+>>>>>>> txt_config
 ```
