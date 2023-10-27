@@ -81,10 +81,6 @@ Output all comits
 ```sh
 git log --oneline --graph
 ```
-Deleting only untraceable files \\ Удаление только не отслеживаемых файлов.
-```sh 
-clear
-```
 Merge commit \\ Фиксация слияния
 ```sh
 merge
@@ -92,4 +88,8 @@ merge
 Configura Configyration values
 ```sh
 git config
+```
+Removing the garbage from the working directory \\ Удаление муссора из рабочего каталога.
+```sh
+clear
 ```
