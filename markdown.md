@@ -82,3 +82,7 @@ Output tree comits
 ```sh
 git log --oneline --graph
 ```
+Configura Configyration values
+```sh
+git config
+```
