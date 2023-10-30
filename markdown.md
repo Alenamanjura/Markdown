@@ -101,3 +101,7 @@ Viewing the history of commits wish changes
 ```
 git log -p
 ```
+Undo_changes / Отмена изменений git add
+```sh
+git reset
+```
