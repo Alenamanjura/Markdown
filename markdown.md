@@ -105,3 +105,7 @@ Undo_changes / Отмена изменений git add
 ```sh
 git reset
 ```
+A copy of the repository from github
+```
+git clone 
+``` 
