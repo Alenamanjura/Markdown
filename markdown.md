@@ -101,3 +101,7 @@ Viewing the history of commits wish changes
 ```
 git log -p
 ```
+Adding changes to the repository
+```
+git push
+```
