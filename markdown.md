@@ -98,7 +98,7 @@ Merge commit
 git merge <name branch>
 ```
 Viewing the history of commits wish changes
-```
+```sh
 git log -p
 ```
 Undo_changes / Отмена изменений git add
@@ -106,6 +106,6 @@ Undo_changes / Отмена изменений git add
 git reset
 ```
 A copy of the repository from github
-```
+```sh
 git clone 
 ``` 
